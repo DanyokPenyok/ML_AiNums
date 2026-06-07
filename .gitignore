@@ -1,0 +1,14 @@
+# Visual Studio files
+.vs/
+x64/
+smartAI00110/x64/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="smartAI00110/smartAI00110.vcxproj" Id="b08311ac-904f-40a7-97df-558e1691f55a" />
+</Solution>
